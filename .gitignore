@@ -1,0 +1,15 @@
+pycache 
+*.pyc
+*.spec
+build/
+dist/
+*.log
+*.ini
+*.db
+*.sqlite
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
