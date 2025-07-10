@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "Arksoft",
+        "modulos": {
+            "Administrativo": "S:\\Hybrid\\HB_Studio\\HybridLiteOS\\HybridLitePro.exe",
+            "Facturacion": "S:\\Hybrid\\HB_Studio\\HybridPOS\\HybridPtoVenta.exe"
+        }
+    },
+    {
+        "nombre": "Keva",
+        "modulos": {
+            "Administrativo": "s:\\Hybrid\\HB_Studio\\HBKevaAdm\\HBKevaC\\HybridLitePro.exe",
+            "Facturacion": "S:\\Hybrid\\HB_Studio\\HybridPOS\\HybridPtoVenta.exe"
+        }
+    }
+]
